@@ -1,10 +1,9 @@
-import Todo from "./components/ToDo/Todo";
-
+import Home from "./components/Pages/Home/Home";
 
 function App() {
   return (
       <>
-        <Todo />
+        <Home />
       </>
   );
 }
