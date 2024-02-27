@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "eea1",
+      "title": "Go To School",
+      "status": "complete"
+    },
+    {
+      "id": "6df5",
+      "title": "Gym",
+      "status": "cancel"
+    },
+    {
+      "id": "d3f8",
+      "title": "Reading Book",
+      "status": "pending"
+    }
+  ]
+}
