@@ -1,0 +1,31 @@
+.image-spinner{
+    margin: auto;
+}
+
+.previewImage{
+    position: relative;
+    border: 10px solid #e9e9e9;
+    margin: 10px 0px;
+    &:hover{
+        button {
+            display: block;
+        }
+    }
+    img{
+        width: 100%;
+        height: 150px;
+        object-fit: cover;
+    }
+    button {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        display: none;
+    }
+    .close{
+        background-color: transparent;
+        color: red;
+        font-size: 25px;
+        border: none;
+    }
+}
